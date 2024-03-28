@@ -1,0 +1,13 @@
+QUESTION
+What does <meta charset=UFT-8> mean in html and the uses in html
+
+ANSWER
+UFT-8 stands for Unicode Transformation Format -8. It's and encoding system for Unicode. It can translate any unicode character to a matching unique binary string, and can also translate the binary string back to a unicode character.
+
+In HTML, UFT-8 encoding allows web pages to display text in various languages and character sets. It ensures that characters from different languages, symbols, and special characters can be properly rendered and displayed on web pages regardless of the user's language or location. By using UTF-8 encoding, HTML DOCUMENTS CAN SUPPORT A WIDE RANGE OF CHARACTERS, MAKING THEM MORE ACCESSIBLE AND INCLUSIVE TO USERS AROUND THE WORLD.
+
+In HTML, UFT-8 can be used for GUI testing, which involves testing the Graphical User Interface of an application to ensure it is user-friendily functions correctly.
+
+UFT-8 is often used for regression testing, which involves running tests to ensure that recent changes to an application have not negatively impacted its functionality.
+
+UFT-8 can be used for performance testing, which involves testing the application's performance under different workloads and stress conditions to identify performance bottlenecks and optimize the application for better performance.
